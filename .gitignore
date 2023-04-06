@@ -33,3 +33,4 @@
 
 # Conan build
 build/
+conan-env
